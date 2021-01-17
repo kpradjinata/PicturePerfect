@@ -1,0 +1,6 @@
+framework module Pods_theyCallMeSIGABRT_theyCallMeSIGABRTUITests {
+  umbrella header "Pods-theyCallMeSIGABRT-theyCallMeSIGABRTUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
